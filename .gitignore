@@ -1,0 +1,6 @@
+# Ignorer tous les fichiers csv
+*.csv
+*.pyc
+*.png
+*.txt
+*.geojson
